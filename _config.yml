@@ -1,1 +1,20 @@
-theme: jekyll-theme-dinky
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Iris
+tagline:          'Studentenvereniging voor radioamateurs'
+description:      'Vereniging voor Gentste studenten met interesse voor radioamateurisme'
+url:              http://irisgent.be
+baseurl:          /
+
+author:
+  name:           'Iris'
+  url:            http://irisgent.be
+
+# Custom vars
+version:          2.1.0
