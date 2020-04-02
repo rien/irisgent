@@ -3,6 +3,11 @@ layout: page
 title: Bestuur
 ---
 
-Contact via bestuur@irisgent.be.
+| Functie              | Naam           |
+|----------------------|----------------|
+| Voorzitter           | Jasper ON3WPI  |
+| Vice-voorzitter      | Francis ON3DOT |
+| Penning              | Sammy          |
+| Systeemadministrator | Anton ON3TAN   |
 
-TODO
+Contacteer ons via [bestuur@irisgent.be](mailto:bestuur@irisgent.be).

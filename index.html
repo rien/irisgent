@@ -5,19 +5,70 @@ title: Home
 
 <h1>Iris</h1>
 
-<p>Iris is de Gentse Studentenvereniging voor radioamateurs</p>
+<p>Iris is de studentenvereniging voor radioamateurs in Gent. Het doel van de
+vereniging is om studenten aan te zetten om hun skills in het radioamateurisme
+te verscherpen.</p>
+
+<p>We organiseren verschillende events doorheen het jaar: onder andere lezingen,
+workshops waarin je je eigen hardware bouwt, workshops waarbij je leert werken
+met bepaalde software, het organiseren van een opleiding om radioamateur te worden, ...
+Daarnaast organiseren we elke woensdag om 20:00 CEST op 145.1337 MHz een vriendenronde,
+waarbij we gezellig babbellen.</p>
+
+<p>Iedereen is welkom bij Iris, zelfs als je nog geen bedieningsvergunning hebt:
+we helpen je dan op weg naar een vergunning.</p>
+
+<h2>FAQ</h2>
+
+<h3>Radio als in Qmusic/Studio Brussel/... dan?</h3>
+
+Nee, totaal niet eigenlijk: een radioamateur heeft als doel om te experimenteren
+met het versturen/ontvangen van radiosignalen en het communiceren via deze
+signalen. Radiozenders zoals QMusic zijn gefocust op het uitzenden van hun programma.
+Het grote verschil is dus dat het radioamateurisme dus eerder gaat over het "hoe"
+dan over het "wat".
+
+<h3>Maar ik wil meehelpen aan de inhoud van een radioprogramma!</h3>
+
+Erm, dat is geen vraag, maar okay. Het opstellen van de inhoud van een radioprogramma
+is ook semi-interessant, daarvoor kan je bij <a href="https://urgent.fm">Urgent FM</a>
+aankloppen. Ben je echter geïnteresseerd in hoe radiozenders en -ontvangers precies
+werken, dan is Iris de perfecte vereniging voor jou!
+
+<h3>Hoe kan ik lid worden van Iris?</h3>
+
+Top, je hebt eindelijk besloten om lid te worden van de coolste radioamateurvereniging
+in Gent! Je wordt lid door te zeggen tegen iemand van het bestuur dat je lid wil
+worden (via bijvoorbeeld <a href="mailto:bestuur@irisgent.be">bestuur@irisgent.be</a>
+) en je lidgeld te betalen (momenteel 0€). Je moet hiervoor wel een geldige
+roepnaam hebben, dus dit is enkel voor mensen met een geldige bedieningsvergunning.
+Als het bestuur dan je lidmaatschap goedkeurt, ben je vanaf dan officieël lid.
+
+<h3>Ik heb mijn bedieningsvergunning nog niet gehaald, kan ik komen naar activiteiten?</h3>
+
+Ja, de meeste van onze activiteiten (lezingen, workshops, ...) zijn open en dus
+toegankelijk voor iedereen. We raden je wel aan om zo snel mogelijk je bedieningsvergunning
+te halen en zullen ook jaarlijks een opleiding organiseren om deze te behalen.
+
+Een aantal van onze activiteiten zullen enkel voor leden zijn (de vriendenronde,
+de verkiezingen, ...).
+
+<h3>Wat met andere vragen?</h3>
+
+Contacteer gerust het bestuur op <a href="mailto:bestuur@irisgent.be">bestuur@irisgent.be</a>.
+
+<h2>Posts</h2>
 
 <div class="posts">
-  {% for post in posts %}
+  {% for post in site.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h3>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
     {{ post.content }}
   </div>
   {% endfor %}

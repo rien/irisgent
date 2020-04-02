@@ -10,11 +10,7 @@ title: Statuten
 
 **Art. 2** - De vereniging heeft haar zetel te Hoveniersberg 24, B-9000 GENT. Bij beslissing van het bestuur kan de zetel evenwel verplaatst worden naar een andere plaats.
 
-<!-- TODO mogen we het therminal-adres gebruiken?-->
-
 **Art. 3** - De vereniging heeft als website irisgent.be. Bij beslissing van het bestuur kan dit webadres veranderd worden.
-
-<!-- TODO website fixen -->
 
 **Art. 4** - De vereniging richt zich tot geïnteresseerden in het radioamateurisme en onder hen de studenten van de UGent in het bijzonder. Ze stelt zich tot doel het aanbieden van activiteiten, lessen en faciliteiten die verband houden met het radioamateurisme. Bovendien wil de vereniging studenten samenbrengen die werken rond deze activiteiten.
 
@@ -22,16 +18,22 @@ title: Statuten
 
 # Hoofdstuk II - Lidmaatschap
 
-**Art. 6** - Het aantal leden van de vereniging is onbeperkt en het lidmaatschap is voorbehouden voor alle studenten die ingeschreven zijn aan de Universiteit, oud-bestuursleden of andere personen die daarvoor de goedkeuring krijgen van het bestuur van de vereniging. Daarnaast moet het lid een geldig bedieningscertificaat radioamateur hebben. Voor een persoon die zijn lidgeld betaald heeft en aan de andere voorwaarden voldoet volwaardig lid kan worden, is een stemming met gewone meerderheid van het bestuur nodig.
+**Art. 6** - Het aantal leden van de vereniging is onbeperkt.
+Om toe te treden als lid moet je:
+- een geldig bedieningscertificaat radioamateur hebben
+- ingeschreven zijn aan de UGent, of een oud-bestuurslid zijn
+- goedkeuring krijgen van het bestuur via een stemming met gewone meerderheid.
+
+Uitzonderingen op de bovenstaande voorwaarden kunnen toegestaan worden mits goedkeuring van het bestuur met een 2/3de meerderheid.
 
 **Art. 8** - Leden die financieel willen bijdragen aan de vereniging, kunnen dit doen door steunend lid te worden door middel van een bijdrage van een bepaald bedrag, te bepalen door het bestuur.
 <!-- dit wegdoen? Limiteert dit ons nutteloos -->
 
 **Art. 9** - Het lidmaatschap bedraagt maximum 10 euro per jaar (te bepalen door het bestuur) en vergt activiteit binnen de vereniging. In geval van inactiviteit kan het lidmaatschap mits voorafgaande verwittiging door het bestuur opgezegd worden.
 
-**Art. 10** - Leden worden persoonlijk op de hoogte gebracht van alle activiteiten van de vereniging. Publieke activiteiten worden ten minste meegedeeld door via de mailinglijst en de website.
+**Art. 10** - Leden worden persoonlijk op de hoogte gebracht van alle activiteiten van de vereniging. Publieke activiteiten worden ten minste meegedeeld via de mailinglijst en de website.
 
-**Art. 11** - Uitsluiten van leden kan nadat er is vastgesteld dat er schade is aangebracht aan de naam of eigendommen van de vereniging, of nadat men niet meer voldoet aan de statuten van de vereniging. De persoon krijgt de kans zich te verantwoorden tegenover het bestuur op de eerstvolgende bestuursvergadering. Hierna wordt beslist of de persoon lid kan blijven, of uit de vereniging wordt gezet. Er is 2/3 meerderheid van het bestuur nodig bij het uitsluiten van leden. Bij uitzonderlijke gevallen kunnen gerechtelijke stappen ondernomen worden.
+**Art. 11** - Het bestuur kan een procedure starten om een lid uit te sluiten. Deze persoon krijgt de kans zich te verantwoorden tegenover het bestuur op de eerstvolgende bestuursvergadering. Hierna wordt beslist of deze persoon lid kan blijven, of uit de vereniging wordt gezet. Er is 2/3 meerderheid van het bestuur nodig bij het uitsluiten van leden. Bij uitzonderlijke gevallen kunnen gerechtelijke stappen ondernomen worden.
 
 # Hoofdstuk III - Het bestuur
 
