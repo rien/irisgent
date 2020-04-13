@@ -50,7 +50,7 @@ Uitzonderingen op de bovenstaande voorwaarden kunnen toegestaan worden mits goed
 
  Wanneer de voorzitter of de penningmeester gebruik maakt van zijn vetorecht, dient hij automatisch het ontslag uit zijn functie in. De beslissing waartegen het veto werd gebruikt kan pas uitgevoerd worden nadat een opvolger verkozen is, en het betreffende punt opnieuw beslist wordt. Het bestuur kan verder aangevuld worden, al dan niet met officieuze functies.
 
-**Art. 15** - De hierboven vernoemde verantwoordelijkheden van de bestuursleden zijn niet-exhaustief. Ieder bestuurslid draagt ook een algemene verwantwoordelijkheid.
+**Art. 15** - De hierboven vernoemde verantwoordelijkheden van de bestuursleden zijn niet-exhaustief. Ieder bestuurslid draagt ook een algemene verantwoordelijkheid.
 
 **Art. 16** - Het bestuur komt regelmatig samen op een daartoe vastgestelde dag, die door de voorzitter wordt vastgelegd en door de secretaris aan alle bestuursleden wordt meegedeeld. De bestuursvergadering is slechts geldig wanneer twee derden aanwezig is. De agendapunten moeten behandeld worden. Bij gelijke stemming heeft de voorzitter het laatste woord. De voorzitter bepaalt voor elke vergadering op voorhand of
 de vergadering open zal zijn voor leden.
