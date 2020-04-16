@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Setup Anutone AT-D878UV
+title: Setup Anytone AT-D878UV
 ---
-
-# Setup voor de Anytone AT-D878UV
 
 Een korte setup guide voor de Anytone AT-D878UV, hierin bespreek ik een paar van mijn ondervindingen.
 
-## Benodigdheden
+# Benodigdheden
 
 Een Anytone AT-D878UV.
 Een computer die windows draait (met spijt in ons hart).
@@ -17,13 +15,13 @@ Een computer die windows draait (met spijt in ons hart).
 ## Firmware Downloaden
 
 Een van de site die de meeste software versies aanbied is [http://www.wouxun.us/category.php?category_id=93](http://www.wouxun.us/category.php?category_id=93),
-deze bevat zowel de oudere al nieuwste software.
+deze bevat zowel de oudere als nieuwste software.
 
 ## Baseband updaten
 
 Deze stap en de volgende kunnen worden omgewisseld.
 
-De eerste stap is controleren wat je huidige software versie is. Dit kan je controlleren op het apparaat onder `Menu > Settings > Device Settings`. Als deze hoger is dan 1.13 kan je deze stap over slaan. Indien dit niet het geval is dan download je de software versie 1.14 en installeer je het meegeleverde `Base Band IC 3258 update/SetupSCT_PORT.msi` programma. De meegeleverde guide bevat de exacte instructies. Als deze opdate is voltooid kan je doorgaan naar de volgende stap.
+De eerste stap is controleren wat je huidige software versie is. Dit kan je controleren op het apparaat onder `Menu > Settings > Device Settings`. Als deze hoger is dan 1.13 kan je deze stap over slaan. Indien dit niet het geval is dan download je de software versie 1.14 en installeer je het meegeleverde `Base Band IC 3258 update/SetupSCT_PORT.msi` programma. De meegeleverde guide bevat de exacte instructies. Als deze opdate is voltooid kan je doorgaan naar de volgende stap.
 
 ## Firmware updaten
 
