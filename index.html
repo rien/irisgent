@@ -69,9 +69,11 @@ naar (tweedehands) hardware om onze events mee te organiseren, naar nieuwe leden
 
 Contacteer gerust het bestuur op <a href="mailto:bestuur@irisgent.be">bestuur@irisgent.be</a>.
 
+
 <h2>Posts</h2>
 
 <div class="posts">
+  <hr>
   {% for post in site.posts %}
   <div class="post">
     <h3 class="post-title">
@@ -81,7 +83,6 @@ Contacteer gerust het bestuur op <a href="mailto:bestuur@irisgent.be">bestuur@ir
     </h3>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content }}
   </div>
   {% endfor %}
 </div>
