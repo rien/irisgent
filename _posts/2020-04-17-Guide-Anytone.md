@@ -14,12 +14,12 @@ Een korte setupguide voor de AnyTone AT-D878UV, hierin bespreek ik een paar van 
 
 ## Firmware downloaden
 
-Een van de site die de meeste softwareversies aanbiedt,{+software versies aanbied+} is [http://www.wouxun.us/category.php?category_id=93](http://www.wouxun.us/category.php?category_id=93),
+Een van de site die de meeste softwareversies aanbiedt, is [http://www.wouxun.us/category.php?category_id=93](http://www.wouxun.us/category.php?category_id=93),
 deze bevat zowel de oudere als nieuwste software.
 
 ## Baseband updaten
 Deze stap en de volgende kunnen worden omgewisseld.
-De eerste stap is controleren wat je huidige softwareversie{+software versie+} is. Dit kan je controleren op het apparaat onder `Menu > Settings > Device Settings`. Als deze hoger is dan 1.13, kan je deze stap overslaan. Indien dit niet het geval is, dan download je de software versie 1.14 en installeer je het meegeleverde `Base Band IC 3258 update/SetupSCT_PORT.msi`-programma. De meegeleverde guide bevat de exacte instructies. Als deze update is voltooid, kan je doorgaan naar de volgende stap.
+De eerste stap is controleren wat je huidige softwareversie is. Dit kan je controleren op het apparaat onder `Menu > Settings > Device Settings`. Als deze hoger is dan 1.13, kan je deze stap overslaan. Indien dit niet het geval is, dan download je de software versie 1.14 en installeer je het meegeleverde `Base Band IC 3258 update/SetupSCT_PORT.msi`-programma. De meegeleverde guide bevat de exacte instructies. Als deze update is voltooid, kan je doorgaan naar de volgende stap.
 
 ## Firmware updaten
 
