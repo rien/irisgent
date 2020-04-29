@@ -5,7 +5,7 @@ title: Generieke (DMR) Radio Setup
 
 Er bestaat reeds een [blogpost over hoe je een AnyTone AT-D878UV](/2020/04/17/Guide-Anytone/) kunt instellen met _codeplugs_ en _DMR_ radio. Maar omdat er steeds meer leden zullen zijn met exotische andere radio's condenseer ik hier wat generieke informatie over DMR. Zo kun je, onafhankelijk van het model van je radio, toch proberen om de juiste instellingen te vinden om je eerste QSO te maken over DMR.
 
-Eerst geef ik een korte introductie tot DMR, maar als je dat al weet kun je [springen naar de setup](Je radio instellen).
+Eerst geef ik een korte introductie tot DMR, maar als je dat al weet kun je [springen naar de setup](#je-radio-instellen).
 
 # Wat is DMR?
 
