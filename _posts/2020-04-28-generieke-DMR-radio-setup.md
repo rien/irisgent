@@ -9,7 +9,7 @@ Eerst geef ik een korte introductie tot DMR, maar als je dat al weet kun je [spr
 
 # Wat is DMR?
 
-**D**igital **M**obile **R**adio is een digitale manier om met andere operators te communiceren. Waar dat analoge radio een relatief primitieve modulatie zoals FM gaat gebruiken, gaat DMR geluid doorsturen in digitale vorm. Heel gelijkaardig aan de muziekradio is DMR een beetje zoals de DAB+ in vergelijking met de klassieke FM-radio. Het heeft ook dezelfde voor- en nadelen: als je elkaar ontvangt zat dat in goede kwaliteit zijn. Maar wanneer het signaal te zwakt wordt hoor je elkaar helemaal niet meer, waar bij analoge radio de tegenpartij zware ruis zou hebben.
+**D**igital **M**obile **R**adio is een digitale manier om met andere operators te communiceren. Waar dat analoge radio een relatief primitieve modulatie zoals FM gaat gebruiken, gaat DMR geluid doorsturen in digitale vorm. Heel gelijkaardig aan de muziekradio is DMR een beetje zoals de DAB+ in vergelijking met de klassieke FM-radio. Het heeft ook dezelfde voor- en nadelen: als je elkaar ontvangt zat dat in goede kwaliteit zijn. Maar wanneer het signaal te zwak wordt hoor je elkaar helemaal niet meer, waar bij analoge radio de tegenpartij zware ruis zou hebben.
 
 Het voordeel van DMR is dat deze genetwerkt is. Er staan overal in België (en de wereld) **repeaters** die de digitale signalen gaan ontvangen en kunnen doorsturen naar andere repeaters via het internet. Zo kun je de repeater in Gent ([ON0GRC](https://brandmeister.network/?page=repeater&id=206101)) een QSO'tje maken met iemand die verbonden is met de [W6GRC](https://brandmeister.network/?page=repeater&id=310709) repeater in Californië in de VS. Dat allemaal met je 5 Watt portabeltje.
 
@@ -17,11 +17,13 @@ Maar om dat te kunnen doen moet je enkele achterliggend concepten begrijpen:
 
 ## DMR ID
 
-Een DMR ID is een identificatienummer die gekoppeld is aan een operator. Het is een soort telefoonnummer of IP-nummer waarop je te bereiken bent. Die heb je nodig om DMR te kunnen gebruiken, maar kun je vrij gemakkelijk aanvragen (als je een bedieningsvergunning en een callsign hebt tenminste) op de [registratiesite](https://register.ham-digital.org/).
+Een DMR ID is een identificatienummer die gekoppeld is aan een operator. Het is een soort telefoonnummer of IP-adres waarop je te bereiken bent. Die heb je nodig om DMR te kunnen gebruiken, maar kun je vrij gemakkelijk aanvragen (als je een bedieningsvergunning en een callsign hebt tenminste) op de [registratiesite](https://register.ham-digital.org/).
+
+Het kan wel even (een dag of twee) duren voor je een ID toegewezen krijgt en die geactiveerd is op het netwerk. Er moet namelijk iemand manueel goedkeuren of je al dan niet een ID mag hebben (je moet een foto van je licentie meesturen). Je vraagt dus best eerst een ID aan voor je gaat experimenteren met DMR.
 
 ## Praatgroepen
 
-Praatgroepen of **T**alking **G**roups, is de voornaamste manier om DMR radio te gebruiken. Je kunt het zien als een groepsgesprek waar andere operatoren naar kunnen gaan luisteren of kunnen versturen. Een praatgroep heeft ook een DMR-id, die van Iris is 2060253.
+Praatgroepen of TGs (**T**alking **G**roups), is de voornaamste manier om DMR radio te gebruiken. Je kunt het zien als een groepsgesprek waar andere operatoren naar kunnen gaan luisteren of kunnen versturen. Een praatgroep heeft ook een DMR-id, die van Iris is voorlopig 2060253 (tot we een permanente ID krijgen).
 
 Wanneer een praatgroep actief is op een repeater, dan zal die repeater alles wat die ontvangt gaan doorsturen naar andere repeaters waarop die praatgroep actief is Ook alles wat binnen die praatgroep gezegd wordt op andere repeaters wordt terug uitgezonden door die repeater. Zo kan iedereen met de dichtste repeater verbinden, maar toch binnen eenzelfde praatgroep met elkaar communiceren.
 
@@ -29,11 +31,11 @@ DMR ondersteund twee simultane verbindingen tegelijkertijd, door middel van [TDM
 
 ## Het BrandMeister netwerk
 
-[BrandMeister](https://brandmeister.network/) hét DMR-netwerk waarop de meeste repeaters aangesloten zijn. Je kunt er zoeken op repeaters en je kunt er een historiek van gesprekken zien.
+[BrandMeister](https://brandmeister.network/) is hét DMR-netwerk waarop de meeste repeaters aangesloten zijn. Je kunt er zoeken op repeaters en je kunt er een historiek van gesprekken zien. Je kunt je op die site ook registreren.Opnieuw zit er hier een _human in the loop_, dus kan het even duren voor die account geactiveerd wordt.
 
 # Je radio instellen
 
-Wat de precieze instellingen van je radio zijn om met DMR te kunnen omgaan dat verschilt natuurlijk van radio tot radio. Maar hieronder volgt een generieke uitleg die je wel op weg zou moeten helpen (in combinatie met de meegeleverde handleiding en wat youtube-tutorials). Niet alle radio's kunnen ook DMR aan (ondergetekende heeft moeten een goedkope analoge radio inwisselen voor een iets minder goedkope DMR-capable radio).
+Wat de precieze instellingen van je radio zijn om met DMR te kunnen omgaan, verschilt natuurlijk van radio tot radio. Maar hieronder volgt een generieke uitleg die je wel op weg zou moeten helpen (in combinatie met de meegeleverde handleiding en wat youtube-tutorials). Niet alle radio's kunnen ook DMR aan (ondergetekende heeft moeten een goedkope analoge radio inwisselen voor een iets minder goedkope DMR-capable radio).
 
 ## Codeplugs
 
@@ -45,18 +47,18 @@ Om jezelf identificeerbaar te maken moet je eerst je DMR ID instellen in je radi
 
 ## Contacten bijhouden
 
-Een radio heeft meestal een contactenboek. Hierin kun je een DMR id van een operator of talkgroup opslaan met een zelfgekozen alias.
+Een radio heeft meestal een contactenboek. Hierin kun je een DMR id van een operator of talkgroup opslaan met een zelfgekozen alias. Zo hoef je niet de DMR ID van Iris vanbuiten te leren natuurlijk. Vaak kun je hier ook een contact op _speed dial_ zetten, waardoor je snel contact kan opnemen met operator of talkgroup door een nummertoets in te drukken. Soms moet je ook eerst een contact maken van een talkgroup voor je die kunt koppelen met een 'kanaal':
 
 ## Kanalen aanpassen
 
-Daarnaast kun je ook kanalen gaan bijhouden. Een kanaal kun je zien als een instelling van de radio zelf: op welke frequentie moet er geluisterd en uitgezonden worden, welke modulatie, welk timeslot, etc. Je kunt bijvoorbeeld een kanaal 'IRIS Vriendenronde' hebben waar je instellingen direct juist staan om mee te doen met onze vriendenronde (analoog RX/TX op 145.1337 MHz), of je kunt een kanaal maken voor een specifieke repeater.
+Je kunt ook kanalen gaan bijhouden. Een kanaal kun je zien als een instelling van de radio zelf: op welke frequentie moet er geluisterd en uitgezonden worden, welke modulatie, welk timeslot, etc. Zie het als een soort bladwijzer. Je kunt bijvoorbeeld een kanaal 'IRIS Vriendenronde' hebben waar je instellingen direct juist staan om mee te doen met onze vriendenronde (analoog RX/TX op 145.1337 MHz), of je kunt een kanaal maken voor een specifieke repeater.
 
 Hier even een voorbeeld hoe je zo'n kanaal op je radio zou instellen voor de [ON0GRC](https://brandmeister.network/?page=repeater&id=206101) repeater in Gent:
 - **RX frequency** dit is de frequentie waarop je luistert naar de repeater, dit moet overeenkomen met de **TX frequency** van de repeater. In dit geval dus **439.0875 MHz**
 - **TX frequency** dit is de frequentie waarop je stuurt naar de repeater, dit moet overeenkomen met de **RX frequency** van de repeater. In dit geval dus **431.4875 MHz**
 - **Color Code** dit is meestal **1**.
 - **Time Slot** dit is het timeslot die je wilt gaan gebruiken. Momenteel gebruiken wij het dynamische timeslot **2**.
-- Tot slot is er nog een manier nodig om een praatgroep (**TG**) te koppelen aan een kanaal. Dit verschilt enorm per radio en kun je soms enkel via software op je PC instellen. Een specifieke handleiding voor je repeater kan je hier op weg helpen.
+- Tot slot is er nog een manier nodig om een praatgroep (**TG**) te koppelen aan een kanaal. Dit verschilt enorm per radio en kun je soms enkel via software op je PC instellen. Een specifieke handleiding voor je radio kan je hier verder op weg helpen.
 
 Eens je een kanaal hebt aangemaakt kun je die eens uittesten. Als je even kort op de PTT-knop van je radio drukt kun je vaak al op je scherm zien of dat lukt of niet. Op de BrandMeister site van de repeater kun je ook bij 'Last Heard' zien of je oproep is binnengekomen of niet. Is dat niet het geval dan loont het de moeite om eens de **RX** of **TX** frequency om te draaien.
 
@@ -69,8 +71,9 @@ Mogelijke oorzaken waarom DMR niet zou werken:
 - De informatie over een repeater die je online hebt gevonden is outdated.
 - Je hebt de DMR id van de praatgroep verkeerd ingesteld.
 - Het dynamisch tijdsslot van de repeater is bezet waardoor je niet via die praatgroep kunt praten. Je kunt altijd proberen de praatgroep van het statische tijdsslot in te stellen om te kijken of DMR daar werkt.
+- Jouw DMR ID is te recent, waardoor die nog niet gemachtigd is om uit te zenden op het BrandMeister netwerk.
 
-Het kan ook helpen om je radio op **monitor** modus te zetten. In DMR modus zal dit meestal alle digitale communicatie gaan beluisteren (en wordt er dus niet enkel geluisterd naar de ingestelde **TG**). Als je daar mensen hoort op prate van je **TG**, dan staat die **TG** niet goed ingesteld op jouw radio.
+Het kan ook helpen om je radio op **monitor** modus te zetten. In DMR modus zal dit meestal alle digitale communicatie gaan beluisteren (en wordt er dus niet enkel geluisterd naar de ingestelde talkgroup). Als je mensen van de talkgroup waar je naar wil luisteren enkel hoort praten als je monitor mode gebruikt, dan is de talkgroup op je radio waarschijnlijk niet goed ingesteld.
 
 Wat je ook altijd kunt proberen is met een SDR gaan kijken of je je radio ziet uitzenden (en of je de repeater af en toe kunt horen). Als je radio heel kort uitzend dan wil dat zeggen dat die geen ontvanger vindt (m.a.w. de repeater zit op een andere frequentie).
 
@@ -78,7 +81,7 @@ Wat je ook altijd kunt proberen is met een SDR gaan kijken of je je radio ziet u
 
 DMR is een prachtige manier om andere operatoren te bereiken met een kleine handheld device. Zolang er een repeater in de buurt is kun je de hele wereld bereiken!
 
-Maar het kan toch wel wat tijd innemen om je radio juist in te stellen. Repeaters in je buurt vinden en die aan de praat krijgen kan heus monnikenwerk zijn. Vergeet niet om plezier te blijven hebben in je hobby, en als het niet direct lukt kun je altijd om raad vragen bij Iris-leden of op de Iris **TG**.
+Maar het kan toch wel wat tijd innemen om je radio juist in te stellen. Repeaters in je buurt vinden en die aan de praat krijgen kan heus monnikenwerk zijn. Vergeet niet om plezier te blijven hebben in je hobby, en als het niet direct lukt kun je altijd om raad vragen bij Iris-leden of op de Iris talkgroup.
 
 o7
 
